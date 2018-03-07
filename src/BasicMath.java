@@ -9,4 +9,9 @@ class BasicMath
     // TODO: subtract
 	// TODO: multiply
 	// TODO: divide
+    public int sum(int a, int b)
+    {
+        return a / b;
+    }
+
 }
