@@ -13,5 +13,10 @@ class BasicMath
         return a * b;
     }
 
-    // TODO: divide
+	// TODO: divide
+    public int sum(int a, int b)
+    {
+        return a / b;
+    }
+
 }
